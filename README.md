@@ -1,1 +1,1 @@
-i have amoved the files from master branch to main
+i have moved the files from master branch to main
